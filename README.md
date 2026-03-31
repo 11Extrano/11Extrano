@@ -47,7 +47,7 @@ I'm a passionate software developer working with various programming languages a
   <a href="https://www.11Extrano.fun/" target="_blank">
     <img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-blue" />
   </a>
-  <a href="tencent://message/?uin=2232442466" target="_blank">
-    <img alt="QQ" src="https://img.shields.io/badge/QQ-2232442466-blue?logo=tencentqq&logoColor=white" />
+  <a href="tencent://message/?uin=2432820465" target="_blank">
+    <img alt="QQ" src="https://img.shields.io/badge/QQ-2432820465-blue?logo=tencentqq&logoColor=white" />
   </a>
 </p>
