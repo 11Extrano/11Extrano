@@ -17,19 +17,6 @@
 
 I'm a passionate software developer working with various programming languages and frameworks. I enjoy building applications for different platforms and exploring new technologies. My projects focus on text, images, and calculations, bringing creative ideas to life through code.
 
-<p align="center">
-	<table>
-		<tr>
-		<td align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-green.svg?clear=1" />
-		    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
-		    </picture>
-		</td>
-		</tr>
-	</table>
-</p>
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
